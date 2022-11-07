@@ -1,3 +1,6 @@
+#Bubble trouble game using C++
+This is my CS101 course project.
+
 FEATURES IMPLEMENTED:-
 
 Required: 
