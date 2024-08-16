@@ -1,3 +1,9 @@
+Course: Computer Programming & Utilization
+Prof: Parag Chaudhuri
+
+Name: Priyansh Jain
+Roll Number: 210070063 
+
 # Bubble Trouble using C++
 This is my CS101 course project.
 
