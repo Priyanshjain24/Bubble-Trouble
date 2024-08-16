@@ -1,7 +1,7 @@
-Course: Computer Programming & Utilization
+Course: Computer Programming & Utilization <br>
 Prof: Parag Chaudhuri
 
-Name: Priyansh Jain
+Name: Priyansh Jain <br>
 Roll Number: 210070063 
 
 # Bubble Trouble using C++
